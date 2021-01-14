@@ -6,8 +6,8 @@
 
 body {
     font-family: 'montserrat', sans-serif;
-    background-image: url('./Blue.jpg');
-    background-size: cover;
+    background-image: url('blue.jpg');
+    background-size: cover; 
     background-position: top center; 
 }
 
